@@ -1,0 +1,62 @@
+Course Syllabus
+Hello there!
+
+A very warm welcome to our Code Fellows JavaScript Bootcamp. We're excited to have you join us and launch your programming career.
+
+
+
+First class meeting
+
+The first class meeting will be Oct 27th, at 9am at Code Fellows. 511 Boren Ave N, Seattle, WA 98109.  In "the Easy" - the main classroom. We will do a combined intro with the UX class and then a setup lab. We will have class at 1pm also in the Easy.
+Regular class time will be 1pm to 4pm after the first day.
+The building is available 24/7 for co-working, we will give codes out in person. Instructors and TAs will generally be available 9am to 12pm.
+You can view the course Calendar and even export it to iCal, Google Calendar, or Outlook.
+
+
+
+Textbooks and other required resources
+
+We have selected some resources to use in class. They are an additional cost, but we feel that they are worth every penny and will serve as references beyond the course timeframe. The text books can also be found for free on Safari Books online, if you have a Seattle Public Library card or University of Washington NetID, or other valid credentials.
+
+Code School (Links to an external site.) - we will be using several of their interactive courses.
+Data Structures and Algorithms with JavaScript by Michael McMillan. Published by O'Reilly. ISBN: 978-1-449-36493-9
+Available online (Links to an external site.) at the Seattle Public Library. If you are from outside Seattle and need a proof of enrollment letter to get a library card, post in Discussions.
+The Node Beginner BookPreview the documentView in a new window pdfPreview the documentView in a new window  epubView in a new window  mobiView in a new window  (the author has generously allowed us to distribute this book to you)
+The Little MongoDB Book (free online (Links to an external site.))
+Ensure you have good amount of available hard drive space and system RAM. Your laptop should be running a recent version of Linux or Mac OS X 10.9+ If you are buying a new laptop, we recommend an Apple MacBook (any style) with at least 8GB RAM. If you have a Windows laptop, you’ll want to set it up with VirtualBox virtual machine, or to dual boot into Linux.
+
+
+
+Required paperwork
+
+Code Fellows LLC is licensed as a technical training school by the State of Washington and we follow all state laws and regulations. All students are required to fill out two important forms: 1: the demographic survey,  and 2: Acknowledge receipt of the course catalog and honor code. Please print out these forms, fill them out and sign them, and bring them to the first class meeting.
+
+ View in a new window
+
+A laser printer is available at Code Fellows if you don't have a printer at home. It works on Windows and Mac but YMMV with Linux. If you've already done these forms you do not need to do them again.
+
+
+
+Grading
+
+Code Fellows courses and assignments are graded on a complete / incomplete system. 80% of assignments are required to be complete to complete the course.
+
+Also required to pass the course:
+
+An in person whiteboard exam
+Presenting a lightning talk in front of class
+Mid course presentation and work on week 4 project
+Final presentation and work on final project
+Assignments are on a point system of 10 points.
+
+Grades will be available in Canvas here. Coworking time in the morning, and Q+A time in class will be the primary feedback opportunities for you, take advantage of the one on one, in person time for code reviews by teachers, and your peers, and other feedback.
+
+The course is in two parts separated by a project week. You must complete 80% of assignments in the first four weeks to move on to the second part. Please keep the teachers up to date on your progress throughout the bootcamp.
+
+
+
+Getting started
+
+To get started, take a look at the course Modules List, especially the Pre Course Work modules.
+
+- Ivan and Tyler
