@@ -1,0 +1,24 @@
+{
+  "name": "SemSat",
+  "version": "1.0.0",
+  "description": "A node.js application to calculate overused words in a text document.",
+  "main": "word-freq.js",
+  "dependencies": {
+    "string": "^2.2.0",
+    "word-freq": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lindamariemummy/counting-overused-words.git"
+  },
+  "author": "Scott Burbidge and Linda Mummy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindamariemummy/counting-overused-words/issues"
+  },
+  "homepage": "https://github.com/lindamariemummy/counting-overused-words"
+}
