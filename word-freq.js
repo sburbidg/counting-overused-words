@@ -15,7 +15,7 @@ fs.readFile(process.argv[2], function(error, data){
    var wordArray =noWhiteSpace.split(" ");
 
    //calcuates frequency of each word
-   var freq = word.freq(pageAsString, true, true);
+   var freq = word.freq(pageAsString, true, false);
   var numWord = wordArray.length;
 
   var overusedPercentage = 0.01 * process.argv[3];
